@@ -1,5 +1,5 @@
 {
-  "name": "use-scroll-into-view",
+  "name": "@lucarestagno/use-scroll-into-view",
   "version": "1.0.0",
   "description": "React Hook to scroll an element into the view",
   "main": "dist/useScrollIntoView.js",
@@ -50,5 +50,8 @@
     "hooks": {
       "pre-commit": "npm test && npm run build && git add dist/"
     }
+  },
+  "dependencies": {
+    "react": "^17.0.1"
   }
 }
