@@ -5,7 +5,7 @@
 ## Installation 
 
 ```shell
-npm i use-scroll-into-view
+npm i @lucarestagno/use-scroll-into-view
 ```
 
 ## Usage
